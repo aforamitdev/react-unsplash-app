@@ -1,1 +1,1 @@
-### simple react web app using Unsplash-app
+### simple react web app using Unsplash-API
